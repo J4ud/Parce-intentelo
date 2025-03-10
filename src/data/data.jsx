@@ -12,4 +12,5 @@ const products = [
     { id: 4, name: "Producto 4", price: 40 },
   ];
   
+  
   export default products;
